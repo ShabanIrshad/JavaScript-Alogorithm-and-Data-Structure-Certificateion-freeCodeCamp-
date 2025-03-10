@@ -9,5 +9,5 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 
 |  Lessons | Description |
 | --- | --- |
-| Pyramid Generator | Learn JS Introductory by creating a Pyramid Generator. |
+| [Pyramid Generator](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/blob/main/pyramidGenerator.js)| Learn JS Introductory by creating a Pyramid Generator. |
 | | Show file differences that haven't been staged |
