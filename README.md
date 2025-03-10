@@ -10,4 +10,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 |  Lessons | Description |
 | --- | --- |
 | [Pyramid Generator](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/blob/main/pyramidGenerator.js)| Learn JS Introductory by creating a Pyramid Generator. |
-|[Building a GradeBook App](url) | Review JS Fundamentals by building a GradeBoook App |
+|[Building a GradeBook App](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/blob/main/gradeBook.js) | Review JS Fundamentals by building a GradeBoook App |
