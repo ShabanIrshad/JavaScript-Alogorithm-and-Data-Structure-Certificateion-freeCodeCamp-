@@ -7,7 +7,7 @@ In this JavaScript Algorithm and Data Structures Certification, you'll learn the
 You'll also learn about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.
 **#Exercises:**
 
-**| Courses |**
-| ------------- |
-| Learn Introductory of JS by building Pyramid Generator|
-| Content Cell  |
+|  Lessons | Description |
+| --- | --- |
+| Pyramid Generator | Learn JS Introductory by creating a Pyramid Generator. |
+| | Show file differences that haven't been staged |
