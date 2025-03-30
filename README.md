@@ -17,3 +17,7 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 |[Calorie Counter](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/CalorieCounter) | Learn form validations by building a calorie counter. |
 |[Rock/Paper/Scissors Game](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/RockPaperScissor) | Learn DOM Manupulation by building a Rock,Paper,Scissors game. |
 |[Music Player](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/MusicPlayer) | Learn Basic basic Strings and Array methods by building a Music player. |
+| **MODULE-2** |  |
+|[Date Formatter](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/MusicPlayer) | Learn Date Object By creating a date formatter |
+
+
