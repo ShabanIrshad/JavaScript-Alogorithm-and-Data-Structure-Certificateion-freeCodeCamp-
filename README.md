@@ -19,5 +19,8 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 |[Music Player](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/MusicPlayer) | Learn Basic basic Strings and Array methods by building a Music player. |
 | **MODULE-2** |  |
 |[Date Formatter](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/Date%20Formatter) | Learn Date Object By creating a date formatter |
+|[Football Team Cards](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/FootballTeamCards) | Learn Modern Javascript methods by creating a football team cards |
+
+
 
 
