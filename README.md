@@ -21,7 +21,7 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 |[Date Formatter](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/Date%20Formatter) | Learn Date Object By creating a date formatter |
 |[Football Team Cards](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/FootballTeamCards) | Learn Modern Javascript methods by creating a football team cards |
 | **MODULE-3** |  |
-|[SpreadSheet](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/Date%20Formatter) | Learn Functional programming by creating a Spreadsheet |
+|[SpreadSheet](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/Spreadsheet) | Learn Functional programming by creating a Spreadsheet |
 
 
 
