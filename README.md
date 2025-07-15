@@ -22,6 +22,10 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 |[Football Team Cards](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/FootballTeamCards) | Learn Modern Javascript methods by creating a football team cards |
 | **MODULE-3** |  |
 |[SpreadSheet](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/Spreadsheet) | Learn Functional programming by creating a Spreadsheet |
+|[PROJECT](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/NumberValidator) | A phone Number Validator |
+
+
+
 
 
 
