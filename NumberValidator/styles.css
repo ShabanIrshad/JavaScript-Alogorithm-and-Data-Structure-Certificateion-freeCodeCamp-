@@ -1,0 +1,80 @@
+/* HEADER CONTENT DESIGNS */
+#header-div{
+  text-align:center;
+  border:1px solid black;
+}
+#header-div>h1{
+  font-weight:900;
+}
+
+/* MAIN SECTION DESIGNS */
+#out-layer{
+  height:400px;
+  width:250px; 
+  margin:10px; 
+  border-radius:15px;
+  box-shadow:-5px 5px 2px 4px grey;
+  background-color:black; 
+}
+#packer-div{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+#inner-layer{
+  height:80%;
+  width:88%;
+  border:1px solid white;
+  position:relative;
+  top:7%;
+  left:5%;
+  background-color:white;
+}
+#camera-div{
+  height:7px;
+  width:7px;
+  position:relative;
+  background-color:white;
+  top:4%;
+  left:47%;
+  border-radius:50%;
+
+}
+.input-text{
+  text-align:center;
+  font-weight:200;
+}
+#btn-div{
+  /* border:1px solid red; */
+  position:relative;
+  top:8%;
+}
+button{
+  width:30%;
+  height:2rem;
+  border-radius:0.5rem;
+  font-weight:600;  
+  background-color:rgb(221, 217, 217);
+}
+#check-btn{
+  margin:0px 10px 0px 20px;
+}
+#clear-btn{
+  float:right;
+  margin:0px 20px 0px 10px;
+}
+
+/* INNER OR SCREEN LAYER DESIGN */
+#user-input{
+  height:auto;
+  width:auto;
+  display:flex;
+  justify-self:center;
+}
+#results-div{
+  /* border:1px solid red; */
+  text-align:center;
+}
+.result-text{
+  /* border:1px solid blue; */
+}
