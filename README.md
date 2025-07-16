@@ -23,6 +23,9 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 | **MODULE-3** |  |
 |[SpreadSheet](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/Spreadsheet) | Learn Functional programming by creating a Spreadsheet |
 |[PROJECT](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/NumberValidator) | A phone Number Validator |
+| **MODULE-4** |  |
+|[Shopping Cart](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/ShoppingCart) | Learn Basic OOP by creating a Shopping Cart |
+
 
 
 
