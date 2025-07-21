@@ -1,4 +1,4 @@
-# JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-
+# JavaScript-Alogorithm-and-Data-Structure-Certification-freeCodeCamp-
 
 Developers use HTML and CSS to control the content and styling of a page. And they use JavaScript to make that page interactive.
 
