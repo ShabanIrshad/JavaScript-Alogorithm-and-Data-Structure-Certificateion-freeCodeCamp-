@@ -27,6 +27,10 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 |[Shopping Cart](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/ShoppingCart) | Learn Basic OOP by creating a Shopping Cart |
 |[Platform Game](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/PlatformGame) | Learn Intermediate OOP by creating a Platform Game |
 |[Advanced Dice Game](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/DiceGame) |Review Algorithmic thinking by creating Advanced Dice Game |
+| **MODULE-5** |  |
+|[fCC Author Page ](https://github.com/ShabanIrshad/JavaScript-Alogorithm-and-Data-Structure-Certificateion-freeCodeCamp-/tree/main/fCCAuthorPage) | Learn fetch and promise by creating a Author Page |
+
+
 
 
 
